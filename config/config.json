@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "johndoe",
+    "password": "secret",
+    "database": "starter_project_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "johndoe",
+    "password": "secret",
+    "database": "starter_project_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "johndoe",
+    "password": "secret",
+    "database": "starter_project_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
